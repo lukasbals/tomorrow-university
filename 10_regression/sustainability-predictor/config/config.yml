@@ -1,0 +1,7 @@
+target: carbon
+features:
+  - temperature
+  - wind_speed
+  - traffic_volume
+split_ratio: 0.8
+model_type: linear_regression
