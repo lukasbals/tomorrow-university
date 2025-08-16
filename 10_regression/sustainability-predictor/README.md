@@ -6,14 +6,14 @@ How does land use change and meat consumption influence the pollution of methane
 
 ## Variables
 
-- Dependent Variable (Target): Methane and carbon emissions in tons per year
-- Independent Variables (Features): Land use change in square kilometers, meat consumption in tons
+- Dependent Variable (Target): Carbon emissions in tons per year
+- Independent Variables (Features): Land use change emissions, wild fires emissions
 
 ## Datasets
 
-Source: [EDGAR Food Emissions](https://www.kaggle.com/datasets/amandaroseknudsen/edgarfoodemissions?resource=download)
+Source: [Agri-food CO2 emission dataset - Forecasting ML](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml)
 
-Description: This dataset contains information on food-related greenhouse gas emissions, including methane and carbon emissions associated with different types of land use and meat consumption.
+Description: A comprehensive dataset on agricultural CO2 emissions, merging data from the FAO and IPCC, was constructed. The dataset, analysed in a notebook, highlights the agri-food sector’s significant contribution to global emissions, emphasising the importance of addressing its environmental impact for climate change mitigation.
 
 Why this dataset: It's well known and structured. Free and easy to use as it's already cleaned up, structured, and a time series dataset - ideal for regression analysis.
 
@@ -41,15 +41,15 @@ pip install -r requirements.txt
 
 ### Data source
 
-The data for this project is sourced from the [EDGAR Food Emissions](https://www.kaggle.com/datasets/amandaroseknudsen/edgarfoodemissions?resource=download) dataset on Kaggle. This dataset contains information on food-related greenhouse gas emissions, including methane and carbon emissions associated with different types of land use and meat consumption.
+The data for this project is sourced from the [Agri-food CO2 emission dataset - Forecasting ML](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml) dataset on Kaggle. This dataset contains information on CO2 emissions associated with different types of land use and meat consumption.
 
 ### License
 
-This project is licensed under the Open Data Commons - see the [LICENSE](https://opendatacommons.org/licenses/dbcl/1-0/) file for details.
+This project is licensed under the CC0: Public Domain - see the [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ### Known Biases
 
-The dataset may reflect existing biases in food production and consumption patterns, which could influence the analysis and model outcomes.
+The dataset may reflect biases inherent in the data collection process, such as regional differences in reporting standards or agricultural practices. Additionally, the focus on CO2 emissions may overlook other significant environmental impacts, such as biodiversity loss or water usage.
 
 ### Consent/Privacy
 
