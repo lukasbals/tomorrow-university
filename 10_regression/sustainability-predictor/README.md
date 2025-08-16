@@ -2,11 +2,11 @@
 
 ## Problem
 
-How does land use change and meat consumption influence the pollution of methane and carbon?
+How does land use change and wild fires influence the total carbon emissions?
 
 ## Variables
 
-- Dependent Variable (Target): Carbon emissions in tons per year
+- Dependent Variable (Target): Total carbon emissions in tons per year
 - Independent Variables (Features): Land use change emissions, wild fires emissions
 
 ## Datasets
