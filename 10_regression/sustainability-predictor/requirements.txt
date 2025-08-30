@@ -3,5 +3,9 @@ numpy==2.3.2
 scikit-learn==1.7.1
 matplotlib==3.10.5
 seaborn==0.13.2
+setuptools==67.6.1
+xgboost==1.6.2
+
+# Code formatting
 black==23.3.0
 black[jupyter]==23.3.0
