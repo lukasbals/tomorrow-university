@@ -65,6 +65,12 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+Format code using Black:
+
+```shell
+black notebooks
+```
+
 ## Ethics
 
 ### Data source
