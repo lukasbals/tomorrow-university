@@ -36,8 +36,8 @@ Yield tables are essential tools in forestry and agriculture, providing critical
 
 ## Datasets
 
-Open source yield table project: https://yieldtables.org/
-Link to the CSV used for the predictor: https://github.com/treely/openyieldtables/blob/main/src/openyieldtables/data/yield_tables.csv
+Open source yield table project: [https://yieldtables.org/](https://yieldtables.org/)
+Link to the CSV used for the predictor: [https://github.com/treely/openyieldtables/blob/main/src/openyieldtables/data/yield_tables.csv](https://github.com/treely/openyieldtables/blob/main/src/openyieldtables/data/yield_tables.csv)
 
 ## How to run
 
@@ -69,7 +69,7 @@ black notebooks
 
 ### Data source
 
-The data source is a open source project: https://yieldtables.org/.
+The data source is an open source project: [https://yieldtables.org/](https://yieldtables.org/).
 
 ### License
 
