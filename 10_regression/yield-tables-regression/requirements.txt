@@ -9,3 +9,5 @@ xgboost==1.6.2
 # Code formatting
 black==23.3.0
 black[jupyter]==23.3.0
+
+ipykernel==6.25.2
