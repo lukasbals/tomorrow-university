@@ -55,7 +55,7 @@ The initial focus will be on above-ground biomass in temperate and boreal forest
 - `current_annual_increment`: The current annual increment in volume per hectare (vfm).
 - `mean_annual_increment`: The mean annual increment in volume per hectare (vfm).
 
-### Target and features
+### Cleaned up target and features
 
 - Dependent Variable (Target): `volume_per_ha`
 - Independent Variables (Features):
