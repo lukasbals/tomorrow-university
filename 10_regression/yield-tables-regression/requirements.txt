@@ -5,6 +5,8 @@ matplotlib==3.10.5
 seaborn==0.13.2
 setuptools==67.6.1
 xgboost==1.6.2
+statsmodels==0.14.5
+dash==2.14.1
 
 # Code formatting
 black==23.3.0
