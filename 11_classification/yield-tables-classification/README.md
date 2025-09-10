@@ -23,13 +23,11 @@
 - Independent Variables (Features):
   - `yield_class`
   - `age`
-  - `dominant_height`
   - `average_height`
   - `dbh`
   - `taper`
   - `trees_per_ha`
   - `basal_area`
-  - `volume_per_ha`
 
 ## Datasets
 
