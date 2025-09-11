@@ -31,7 +31,7 @@ The dataset contains **4,025 records across 8 features** (7 numeric, 1 categoric
 
 - **Numerical variables:**
 
-  - `yield_class`, `age`, `average_height`, `dbh`, `taper`, `trees_per_ha`, `basal_area`
+  - `yield_class`, `age`, `average_height`, `dbh`, `trees_per_ha`, `basal_area`
   - Distribution: mostly continuous, some skew (e.g., `trees_per_ha`).
   - Central tendencies well-documented with `.describe()`
 

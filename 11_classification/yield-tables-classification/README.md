@@ -25,7 +25,6 @@
   - `age`
   - `average_height`
   - `dbh`
-  - `taper`
   - `trees_per_ha`
   - `basal_area`
 
