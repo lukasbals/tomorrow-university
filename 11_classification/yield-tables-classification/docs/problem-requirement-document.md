@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The decision being automated is the annual Measurement, Reporting, and Verification (MRV) of forest carbon storage for Improved Forest Management (IFM) projects. The unit of prediction is the tree species present per hectare of forest. The outcome event is the validated species composition within the last annual MRV cycle, which—combined with biomass estimates—enables calculation of carbon stocks. The prediction horizon is retrospective (one year), reflecting ex-post credit issuance. In practice: Predict whether a given hectare of forest contained specific tree species within the last annual MRV cycle using LiDAR and remote sensing data, so that we can generate accurate, cost-effective carbon stock estimates to support certification and climate finance.
+Current approaches to annual Measurement, Reporting, and Verification (MRV) of forest carbon storage in Improved Forest Management (IFM) projects are costly and resource-intensive, as they rely heavily on manual field surveys. A major challenge is that carbon storage can only be estimated accurately when both tree species composition and biomass are known, since biomass values differ significantly across species. Without reliable, cost-effective methods to predict which species are present in each hectare of forest, MRV remains a bottleneck for issuing ex-post carbon credits. Leveraging LiDAR and other remote sensing data offers a potential solution: enabling retrospective (one-year) predictions of species composition, providing the basis for biomass estimation, and ultimately allowing for accurate, scalable, and affordable carbon stock calculations to support certification and climate finance.
 
 ## Success Metrics (~50 words + table)
 

@@ -21,7 +21,6 @@
 
 - Dependent Variable (Target): `tree_type` (Coniferous or Deciduous)
 - Independent Variables (Features):
-  - `yield_class`
   - `age`
   - `average_height`
   - `dbh`
